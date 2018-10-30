@@ -1,0 +1,2 @@
+C:\Users\Asus\Desktop\Examen3-master\Examen3\Examen3\obj\Debug\Examen3.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Examen3-master\Examen3\Examen3\obj\Debug\Examen3.csproj.CoreCompileInputs.cache
